@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Queuing-app</string>
+    <string name="phone_num">통신사 번호</string>
+    <string name="btnName">번호표 발급</string>
+</resources>
